@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Simon8282005.github.io</id>
+    <title>Gridea</title>
+    <updated>2025-06-01T00:50:06.857Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Simon8282005.github.io"/>
+    <link rel="self" href="https://Simon8282005.github.io/atom.xml"/>
+    <subtitle>Hello World</subtitle>
+    <logo>https://Simon8282005.github.io/images/avatar.png</logo>
+    <icon>https://Simon8282005.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Ready2Rescue 🤕]]></title>
+        <id>https://Simon8282005.github.io/post/ready2rescue/</id>
+        <link href="https://Simon8282005.github.io/post/ready2rescue/">
+        </link>
+        <updated>2025-05-31T14:14:07.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>Hii guys I am back. I am so happy to say that I attend another program that organize by Kelanasiswa UMT which is the Ready2Rescure program that aim to teach us about the basic first aid when some emergency happend.</p>
+<p>This program let me learn so much about first aid, including the balutan on tangan, kepala, luka tercucuk and so on.</p>
+<p>Not just like that, I also learn about the type of snake and know how to recorgnize which snake are venomous and which are not.</p>
+<p>At the last session of this program, we learn about the way to do CPR for different patient including baby and adult.</p>
+<p>Here are some picture during the program.</p>
+<figure data-type="image" tabindex="1"><img src="https://Simon8282005.github.io/post-images/1748701545933.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://Simon8282005.github.io/post-images/1748701555721.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://Simon8282005.github.io/post-images/1748701561550.jpg" alt="" loading="lazy"></figure>
+<p>Let's go for Ready2Rescure 2.0 !!!</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bengkel Laman Web~ 📬]]></title>
+        <id>https://Simon8282005.github.io/post/bengkel-laman-web/</id>
+        <link href="https://Simon8282005.github.io/post/bengkel-laman-web/">
+        </link>
+        <updated>2025-04-24T14:38:51.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="experience">Experience</h1>
+<p>Today I attend a program name Bengkel Laman Web that organize by Kelanasiswa UMT.</p>
+<h3 id="the-main-application-that-can-help-us-to-create-website-without-coding-is">The main application that can help us to create website without coding is...</h3>
+<p>In this workshop, we learn about how to use an application name Gridea to handle our own website that can hold all of our own post.</p>
+<figure data-type="image" tabindex="1"><img src="https://Simon8282005.github.io/post-images/1748738973202.png" alt="" loading="lazy"></figure>
+<h3 id="we-learn-about-how-to-use-github">We learn about how to use github !</h3>
+<p>Beside that, we also learn how to user Github Page as our own personal server to create and manage our own post. It such as a very good experience to learn the way that how to get your first github account, manage the token and so on. 😍😍</p>
+<figure data-type="image" tabindex="2"><img src="https://Simon8282005.github.io/post-images/1748738897317.jpg" alt="" loading="lazy"></figure>
+<h3 id="website-showcase-xddd">Website showcase XDDD</h3>
+<p>Here are some picture for my own website:</p>
+<figure data-type="image" tabindex="3"><img src="https://Simon8282005.github.io/post-images/1748703799014.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://Simon8282005.github.io/post-images/1748706000330.png" alt="" loading="lazy"></figure>
+<p>It look really pretty isn't it ? Stay tune for Bengkel Laman Web 2.0 !</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello guys]]></title>
+        <id>https://Simon8282005.github.io/post/hello-guys/</id>
+        <link href="https://Simon8282005.github.io/post/hello-guys/">
+        </link>
+        <updated>2025-04-24T10:53:42.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="today">Today</h1>
+<p>Today I am joining bengkel laman web for today 😀</p>
+<h2 id="markdown">Markdown</h2>
+<p>A documentaion syntax that make documentation experience more better</p>
+<h2 id="girdea">Girdea</h2>
+<p>Software that use to create a static and simple website</p>
+<figure data-type="image" tabindex="1"><img src="https://Simon8282005.github.io/post-images/1745492723085.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HellloWorld]]></title>
+        <id>https://Simon8282005.github.io/post/testing-1/</id>
+        <link href="https://Simon8282005.github.io/post/testing-1/">
+        </link>
+        <updated>2025-04-17T16:37:52.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="hello">Hello</h1>
+<h2 id="hello-world">Hello world</h2>
+<h3 id="hello-world-2">Hello world</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Everyone 🤗]]></title>
+        <id>https://Simon8282005.github.io/post/hello-gridea/</id>
+        <link href="https://Simon8282005.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>Thanks for joining Benkel Laman Web for today 🥳 Hope you enjoy using Gridea to create, manage and post everythings your like to post in your future.</p>
+<p>Time will fly, memory will gone, but text won't dissapear. 😉</p>
+]]></content>
+    </entry>
+</feed>
